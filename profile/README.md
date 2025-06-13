@@ -26,7 +26,8 @@ As A2A Protocol enthusiasts, we learn and support each other:
 
 ## 🛠️ Our Community Projects
 
-- **[A2A4J](https://github.com/a2ap/a2a4j)** - Java implementation with Spring Boot integration
+- **[A2A4J](https://github.com/a2ap/a2a4j)** - A2A4J is a comprehensive Java implementation of the Agent2Agent Protocol, including server, client, examples, and starters.
+- **[A2AGO](https://github.com/a2ap/a2ago)** - A2AGO is a Go language implementation of the A2A. It provides a Go client and server library for building and integrating Agent-to-Agent interactions.
 - **Examples and Tools** - Resources to help developers get started quickly
 
 ## 📖 Related Resources
